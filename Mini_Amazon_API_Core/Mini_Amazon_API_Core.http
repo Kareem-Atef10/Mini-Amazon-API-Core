@@ -1,0 +1,6 @@
+@Mini_Amazon_API_Core_HostAddress = http://localhost:5152
+
+GET {{Mini_Amazon_API_Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
